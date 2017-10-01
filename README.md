@@ -14,7 +14,6 @@ make
 ```
 
 ## OMPL:
-To compile the program, you need to install OMPL first:
-http://ompl.kavrakilab.org/download.html
-The output file is also in OMPL benchmark data format:
-http://ompl.kavrakilab.org/benchmark.html
+* To compile the program, you need to install [OMPL](http://ompl.kavrakilab.org/download.html) first:
+* The output file is also in OMPL [benchmark](http://ompl.kavrakilab.org/benchmark.html) data format:
+
